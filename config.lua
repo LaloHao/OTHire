@@ -49,7 +49,7 @@ admin_port = "7171"
 url = "http://otland.net"
 
 -- server owner name
-ownername = "Ezzz"
+ownername = "Test"
 
 -- server owner email
 owneremail = ""
